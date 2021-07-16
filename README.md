@@ -1,2 +1,2 @@
 # hello-world
-Repositorio de prueba
+Hola compas me encanta la programación 
